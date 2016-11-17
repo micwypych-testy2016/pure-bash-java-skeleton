@@ -1,0 +1,1 @@
+javac -d build -sourcepath src/main/java/ src/main/java/Library.java
