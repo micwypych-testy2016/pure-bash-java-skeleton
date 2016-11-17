@@ -11,9 +11,9 @@ Java project with dependency on JUnit with build system based on pure bash scrip
    ./compile.sh
    ./run-app.sh
    ```
-* compiling and running tests:
+* Compiling and running tests:
+
    ```bash
    ./compile-tests.sh
    ./run-test.sh
    ```
-
